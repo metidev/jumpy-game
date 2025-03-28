@@ -2,6 +2,7 @@
 
 ## 🐸 About the Game
 Ninja Frog is a 2D pixel art platformer where you control a ninja frog! Jump, run, and navigate through levels using either the arrow keys or `WASD`.
+The game includes two unique levels with different maps. Collect cherries to earn points and progress!
 
 ## 🎮 How to Play
 - Move: `Arrow Keys` or `WASD`
